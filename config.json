@@ -1,0 +1,14 @@
+{
+  "testServer": "1192507284308381756",
+  "clientId": "1047938550047461378",
+  "WaitingRoom": "1192507284845248535",
+  "GuardianLogAuth": "TEST",
+  "db": [
+    {
+      "server": "192.168.0.104",
+      "username": "root",
+      "pass": "ryan29",
+      "dbname": "s6_AtlasgGuardian"
+    }
+  ]
+}
